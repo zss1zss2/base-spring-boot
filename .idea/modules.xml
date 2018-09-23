@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apose.iml" filepath="$PROJECT_DIR$/.idea/modules/apose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apose_main.iml" filepath="$PROJECT_DIR$/.idea/modules/apose_main.iml" group="apose" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apose_test.iml" filepath="$PROJECT_DIR$/.idea/modules/apose_test.iml" group="apose" />
+    </modules>
+  </component>
+</project>
