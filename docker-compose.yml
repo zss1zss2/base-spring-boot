@@ -1,0 +1,10 @@
+version: '3'
+services:
+  hello:
+    image: openjdk
+    ports:
+      - "7070:7070"
+    volumes:
+      - .:/tmp
+    working_dir: /tmp
+    command: java -jar ./build/libs/base-spring-boot.jar
